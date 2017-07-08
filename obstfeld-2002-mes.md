@@ -32,7 +32,17 @@ Why is that the purpose of the exchange rate?
 *PPP Models*: Exchange rate changes have no effect on goods prices
 because prices immediately adjust so that PPP holds.
 
-*Real Wage Rigidity*: 
+*Real Wage Rigidity*: With real wage rigidity and flexible exchange
+rates, monetary policy cannot affect output. *Remark*: I need to read
+one of the references to understand the argument.
+
+*Pricing to Market and Sunk Costs*: If firms are worried about losing
+market share due to sunk costs, they will not raise prices above the
+prices of domestic firms when the exchange rate changes.
+
+*Local Currency Pricing*: Import prices are assumed to not respond to
+exchange rate changes because prices are set in terms of the export
+market currency.
 
 
 
