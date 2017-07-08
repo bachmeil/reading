@@ -15,3 +15,38 @@ stems from oversimplified modeling strategies rather than from evidence.
 
 *Remark:* Is this also true for a country like Spain that has been hit hard due to the adoption of the euro?
 
+The justification for having flexible exchange rates rather than fixed
+exchange rates is that changes in the exchange rate will offset output
+shocks or international trade shocks (I think that's what he means by
+"international payments"). If they don't do so, you're better off with
+fixed exchange rates.
+
+*Classic Elasticity Pessimism*: Elasticities of export and import demand
+are low enough that the Marshall-Lerner condition does not hold.
+
+Metzler (1948) argued that changes in the exchange rate could not be
+expected to bring the trade balance back to zero in the short run. In
+the long run exchange rate realignments can be used. *Remark:*
+Why is that the purpose of the exchange rate?
+
+*PPP Models*: Exchange rate changes have no effect on goods prices
+because prices immediately adjust so that PPP holds.
+
+*Real Wage Rigidity*: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
