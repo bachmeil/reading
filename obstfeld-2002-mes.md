@@ -3,6 +3,8 @@ Maurice Obstfeld 2002 *Monetary and Economic Studies*
 
 Refers to Engel (2002) as a more technical survey of the same material.
 
+Point of the paper:
+
 > Pessimism over the gross benefits of flexible exchange rates
 is a perennial feature of the intellectual landscape, and the newest bout is based on
 the observation of extremely low and slow pass-through of exchange rate changes to
