@@ -1,2 +1,1 @@
-# reading
-Notes on papers and books I'm reading.
+This is a repo holding notes on papers and books I'm reading. I make notes of things that stand out to me as I read them and add random thoughts. Probably only of interest to me, but I've made them publicly available anyway.
